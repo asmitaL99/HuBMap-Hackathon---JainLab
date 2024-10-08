@@ -27,5 +27,4 @@ cells.csv: Contains cell-level metadata such as cell ID, coordinates, and more.
 cell_feature_matrix.h5: A cell-by-gene matrix read into an AnnData object.
 ## Reference Annotations:
 Single-cell RNA-seq reference annotation data in AnnData format.
-## Reference Annotations:
-Single-cell RNA-seq reference annotation data in AnnData format.
+
