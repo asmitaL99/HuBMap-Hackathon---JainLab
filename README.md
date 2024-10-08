@@ -14,11 +14,11 @@ Cross-Tissue Comparison: Supports multi-tissue datasets for comparative analysis
 # Tools & Packages
 The pipeline leverages the following tools:
 
-Squidpy: For spatial analysis of single-cell and spatial transcriptomics data.
-Scanpy: For single-cell RNA-seq data processing and analysis.
-Scipy: For statistical and mathematical operations.
-TACCO: For cell type annotation based on reference single-cell datasets.
-Monkeybread: A tool for spatial neighborhood analysis.
+### Squidpy: For spatial analysis of single-cell and spatial transcriptomics data.
+### Scanpy: For single-cell RNA-seq data processing and analysis.
+### Scipy: For statistical and mathematical operations.
+### TACCO: For cell type annotation based on reference single-cell datasets.
+### Monkeybread: A tool for spatial neighborhood analysis.
 
 # Inputs
 ## Cell Metadata:
